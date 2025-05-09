@@ -1,6 +1,7 @@
 # 🌱 Plant Disease Detection - Flask Web App
+This project aims to detect and classify plant diseases using machine learning techniques based on visual leaf data. By identifying diseases early, this tool can help farmers and agriculturists take proactive steps to protect their crops, ensuring better yield and reduced economic loss.
 
-This project is a **Flask-based Web Application** that allows users to **upload images of plant leaves** to detect possible diseases using a machine learning model.
+Built on **Flask-based Web Application** that allows users to **upload images of plant leaves** to detect possible diseases using a machine learning model.
 
 ---
 
